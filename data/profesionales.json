@@ -1,0 +1,862 @@
+[
+  {
+    "nombre": "Alejandra Cecilia Echeverría Cid",
+    "especialidad": "Neuróloga Infantil"
+  },
+  {
+    "nombre": "Amapola Belén González Ruiz",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Amara Lisa Marcela Pereira Cifuentes",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Ambar Valdivieso",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "America Mirabal García",
+    "especialidad": "Ginecóloga"
+  },
+  {
+    "nombre": "Ana María Palma Pozo",
+    "especialidad": "Psiquiatra Infanto-Juvenil"
+  },
+  {
+    "nombre": "Angela Jeannette Santis Méndez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Angie Soledad Hernández Brell",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Antonia Paz Chávez Vega",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Antonia Zúñiga Garfias",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Aranza Antonia Navarrete Fonseca",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Arllet Annais Carrasco Arenas",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Augusta Pirozzi Vidal",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Bárbara Belén Robles Toro",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Bárbara Brito",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Bárbara Traipe Páez",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Bastián Rivas Farias",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Bélgica Monserrat Vallejos Retamal",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Blanca Lihn Gazitúa",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Andrea Barra Toro",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Camila Andrea Olivares Moraga",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Andrea Sommer Venegas",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Belen Oyarce Molina",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Camila Belen Torres Machado",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Ercilia Quiñones Anabalón",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Fernanda Rojas González",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Pérez Ferretti",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Camila Urzúa Abarca",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Carla Bahamondes Quezada",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Carlos Alberto Gonzalez Aranibar",
+    "especialidad": "Neurólogo Infantil"
+  },
+  {
+    "nombre": "Carmen Isabel Zúñiga Álvarez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Carolina Andrea Valenzuela Jara",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Catalina Achondo Salas",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Catalina Alejandra Hernandez Muñoz",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Catalina Alejandra Mena Herrera",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Catalina Alexandra Piazze Fernández",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Catalina Andrea Arce Carter",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Catalina Andrea Hernández Zuñiga",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Catalina Isidora Contreras Araya",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Cecilia Isabel Cáceres Cantuarias",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Christel Fernanda Romero Maldonado",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Claudia Ignacia Mela Ortiz",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Constanza Izadora Arriaza Valenzuela",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Constanza Javiera Vallejos Neira",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Constanza Millaray Astete Arellano",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Constanza Vega Molina",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Consuelo Molina Pardo",
+    "especialidad": "Medicina General"
+  },
+  {
+    "nombre": "Cristian Marcelo Molina Medina",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Cristina Elizabeth Muñoz Vergara",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Daila Marya Daría Bello",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Dan Ariel Hartmann Schatloff",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Daniela Alexandra Silva Espinoza",
+    "especialidad": "Residente Psiquiatria Infanto-Juvenil"
+  },
+  {
+    "nombre": "Daniela Esparza Saavedra",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Daniela Rivas",
+    "especialidad": "Neuróloga Infantil"
+  },
+  {
+    "nombre": "Daniza Belén Bilicic Ubierna",
+    "especialidad": "Residente Dermatología Online"
+  },
+  {
+    "nombre": "Dayana Bermudéz Herrera",
+    "especialidad": "Neuróloga Infantil"
+  },
+  {
+    "nombre": "Denisse Margarita Sepulveda Berrios",
+    "especialidad": "Reumatóloga"
+  },
+  {
+    "nombre": "Diego Sanzana Ibañez",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Dobra Ivena Tipic Fernández",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Dominga Ugalde Cruz Coke",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Eduardo Vargas carrasco",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Eliseo Andres Fuentes Foncea",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Emilia Antonia Hidalgo Ramírez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Esteban Ignacio Castillo",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Felipe Alcayaga De la Ribera",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Felipe Andrés Solari Vergara",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Felipe Benajamín Alvear Morice",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Felipe Middleton",
+    "especialidad": "Residente Dermatología"
+  },
+  {
+    "nombre": "Fernanda Arlette Hidalgo López",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Fernanda Belen Hidalgo Varas",
+    "especialidad": "Residente Neurología Infantil"
+  },
+  {
+    "nombre": "Fernanda Boetsch Rojas",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Fernanda Durán",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Fernanda Gallardo",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Florencia Montecinos",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Florencia Vial Videla",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Francisca Alejandra Lepe Tobar",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Francisca Angélica Martínez Vera",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Francisca Ignacia Quirós Cruz",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Francisca Merino Vial",
+    "especialidad": "Residente Psiquiatria Infanto-Juvenil"
+  },
+  {
+    "nombre": "Francisca Moya",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Francisca Paz Cáceres Marín",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Francisca Paz Favero Figari",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Francisca Sandoval Álvarez",
+    "especialidad": "Neuróloga Infantil"
+  },
+  {
+    "nombre": "Francisca Sofía Santana Molteni",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Francisco González",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Francisco Nuñez",
+    "especialidad": "Residente Psiquiatría Adulto"
+  },
+  {
+    "nombre": "Freddy Ernesto Diaz Moreno",
+    "especialidad": "Cardiólogo"
+  },
+  {
+    "nombre": "Gabriela Blanchard De Colina",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Gabriela Parada",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Gonzalo Ignacio Vergara Pinto",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Gonzalo Roselló Vergara",
+    "especialidad": "Residente Psiquiatría Adulto"
+  },
+  {
+    "nombre": "Gustavo Adolfo Salazar Colmenares",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Gustavo Campos Salas",
+    "especialidad": "Neurólogo Infantil"
+  },
+  {
+    "nombre": "Harry Daniel Orellana Gutiérrez",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Hugo Hernán Quintero",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Hugo Muñoz Navarrete",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Ignacio Felipe Quiero González",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Isabel Covarrubias",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Ivana Antonia González García",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Ivanna Cañete Studer",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Ivón Tapia Aguayo",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Ivonne Yoleira Carrero Contreras",
+    "especialidad": "Ginecóloga"
+  },
+  {
+    "nombre": "Jaime Alejandro Zapata Sepúlveda",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Jaime Castro Iturrieta",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Javier Ignacio Contador González",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Javiera Constanza Inostroza Fagerstrom",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Javiera Constanza Sepúlveda Sáez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Javiera Daniela Corales Oñate",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Javiera Gárate Fernández",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Javiera Úbeda Vicuña",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Javiera Valentina Matamala Medel",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Jocelyn Patricia Labrín Retes",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Jorge Alejandro Olivares Leal",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "José C. Flores",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "José Gregorio Colina Flores",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "José Luis Astorga Moya",
+    "especialidad": "Psicólogo Infanto-Juvenil"
+  },
+  {
+    "nombre": "Josefa Andrea Fonseca Berna",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Josefina Albornoz",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Josefina Andrea Basoalto Toledo",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Josefina Krusell",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Josefina Marcos",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Josefina Mujica Fuenzalida",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Juan Pablo Prudencio Robres",
+    "especialidad": "Residente Dermatología"
+  },
+  {
+    "nombre": "Juan Pablo Rozas Vidal",
+    "especialidad": "Neurólogo Adulto"
+  },
+  {
+    "nombre": "Katherine Fernanda Rebolledo Stegmann",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Katherine Yanzon Escobar",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Luana Paula Millán Castañeda",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Luis Rafael Velasquez Marcano",
+    "especialidad": "Cardiólogo"
+  },
+  {
+    "nombre": "Macarena Del Carmen Fica Cartes",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Macarena Ignacia Rodríguez Pérez",
+    "especialidad": "Psiquiatra Infanto-Juvenil"
+  },
+  {
+    "nombre": "Macarena Paz Maldonado Leyton",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Macarena Soriano",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Magdalena Paz Pino Martínez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Mailliw Ayari García",
+    "especialidad": "Residente Neurología Infantil"
+  },
+  {
+    "nombre": "Manuel Cañumir",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "María Ana Alfaro Montoya",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "María Catalina Aránguiz Soto",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María Eugenia Huber Fasani",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María Fernanda Scrimini Toscano",
+    "especialidad": "Endocrinóloga"
+  },
+  {
+    "nombre": "María Ignacia Cancino",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María Ignacia Contreras",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María Ignacia Henríquez Silva",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María Ignacia Larrachea Sifri",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José Arias Rojas",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José Bizama Bustos",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José Carrión Alarcón",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José Palma Sáez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José Roa Verdugo",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José silva",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "María José Vergara Cid (Solo telemedicina)",
+    "especialidad": "Psiquiatra Infanto-Juvenil"
+  },
+  {
+    "nombre": "María Julia Puca Coronado",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Maria Lorena Giupponi",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "María Soledad Anfossi Lubascher",
+    "especialidad": "Nutricionista"
+  },
+  {
+    "nombre": "María Virginia Sanchez Sanchez",
+    "especialidad": "Cardióloga"
+  },
+  {
+    "nombre": "Martin Edgardo Fritzsche Villarroel",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Martina Elyzabeth León Navarro",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Matías Ignacio Montero Morales",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Mauricio Ignacio Uribe Araneda",
+    "especialidad": "Neurólogo Adulto"
+  },
+  {
+    "nombre": "Melanie Contreras",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Melissa Antonia Drouillas Leyton",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Michele Pizarro",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Michelle Christina Sukerman Guardia",
+    "especialidad": "Psiquiatra Infanto-Juvenil"
+  },
+  {
+    "nombre": "Michelle Jaque Antil",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Monserrat Gabriela Yon Gárate",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Monserrat Siboney Lecaros Rojas",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Myriam Penélope Silva González",
+    "especialidad": "Psiquiatra Infanto-Juvenil"
+  },
+  {
+    "nombre": "Natali Andrea Osses Acuña",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Natalia Barra Vega",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Natalia Estefanía Cisternas Segura",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Natalia Fernanda Chávez Páez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Nur Daniela Metuaze Zeidan",
+    "especialidad": "Medicina General"
+  },
+  {
+    "nombre": "Osvaldo Patricio Vergara Valle",
+    "especialidad": "Neurólogo Adulto"
+  },
+  {
+    "nombre": "Pablo Filippi",
+    "especialidad": "Neurólogo Infantil"
+  },
+  {
+    "nombre": "Pablo Vásquez Parada",
+    "especialidad": "Residente Psiquiatría Adulto"
+  },
+  {
+    "nombre": "Paloma Andrea Torres de la Llosa Palacios",
+    "especialidad": "Dermatóloga"
+  },
+  {
+    "nombre": "Pamela Cristina Mateo Mattos",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Paola Nuñez Contreras",
+    "especialidad": "Neuróloga Infantil"
+  },
+  {
+    "nombre": "Patricio A. Caro Guerra",
+    "especialidad": "Neurólogo Adulto"
+  },
+  {
+    "nombre": "Paula Javiera Vega Merino",
+    "especialidad": "Residente Neurología Infantil"
+  },
+  {
+    "nombre": "Paulina Andrea Álvarez Godoy",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Paulina Cifuentes",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Paulina Cuevas Mardones",
+    "especialidad": "Médica Familiar"
+  },
+  {
+    "nombre": "Paulina Sáez Venegas",
+    "especialidad": "Residente Neurología Infantil"
+  },
+  {
+    "nombre": "Paz Frías",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Pilar Lagomarsino Sandoya",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Pilar Ortiz Forno",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Rayanna Krause",
+    "especialidad": "Pediatría"
+  },
+  {
+    "nombre": "Renato Emiliano Pacheco Aravena",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "René Victoriano Belmar",
+    "especialidad": "Neurólogo Adulto"
+  },
+  {
+    "nombre": "Rodrigo Brown Fleite",
+    "especialidad": "Residente Psiquiatría Adulto"
+  },
+  {
+    "nombre": "Santiago Garcia Pando",
+    "especialidad": "Dermatólogo"
+  },
+  {
+    "nombre": "Sebastián Del Solar Zañartu",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Sebastián Honorio Menay Funes",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Sebastián Nicolás Farah",
+    "especialidad": "Psiquiatra"
+  },
+  {
+    "nombre": "Sebastián Reinaldo Drago Pérez",
+    "especialidad": "Traumatólogo"
+  },
+  {
+    "nombre": "Sofia Amalia Francisca Kalau vom Hofe Vidaurre",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Sofía Paz Núñez Barra",
+    "especialidad": "Psicóloga Infanto-Juvenil"
+  },
+  {
+    "nombre": "Tamara Muñoz Orellana",
+    "especialidad": "Neuróloga Infantil"
+  },
+  {
+    "nombre": "Tatiana del Pilar Silva Valenzuela",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Tomás Andrés O’Brien Alvarado",
+    "especialidad": "Residente Dermatología"
+  },
+  {
+    "nombre": "Tomás Arturo Guzmán Contreras",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Valentina Alejandra Paz Barriga",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valentina Andrea Medina Mardones",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valentina Belén Villagra Soto",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valentina Ortega Aravena",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valentina Paz Torrejón Hernandez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valentina Soledad Albrecht Cerda",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valentina Valeria Muñoz Álvarez",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valeria Baboun Yazigi",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Valeria Fernanda Pérez González",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Vania Morena Urrutia",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Verónica Contreras Torres",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Vicente Tomás Muñoz Uarac",
+    "especialidad": "Psicólogo Adulto"
+  },
+  {
+    "nombre": "Ximena Carolina de Jesús Ibarra Torres",
+    "especialidad": "Psicóloga Adulto"
+  },
+  {
+    "nombre": "Yael Orenstein Olgui",
+    "especialidad": "Psicóloga Adulto"
+  }
+]

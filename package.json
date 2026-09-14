@@ -1,0 +1,24 @@
+{
+  "name": "auditor-formed",
+  "version": "1.0.0",
+  "description": "Auditoría automatizada del sitio formed.cl",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "playwright test",
+    "test:listado": "playwright test profesionales",
+    "test:reserva": "playwright test reserva-online",
+    "test:ver": "playwright test --headed",
+    "report": "playwright show-report",
+    "catalogo": "node scripts/generar-catalogo.js",
+    "agendas": "node scripts/generar-agendas.js",
+    "typecheck": "tsc --noEmit",
+    "ver:reserva": "playwright test reserva-online --headed --workers=1",
+    "ver:listado": "playwright test profesionales --headed --workers=1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1",
+    "typescript": "^7.0.2"
+  }
+}

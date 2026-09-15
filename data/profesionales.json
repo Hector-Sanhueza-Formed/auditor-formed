@@ -1,862 +1,1421 @@
 [
   {
     "nombre": "Alejandra Cecilia Echeverría Cid",
-    "especialidad": "Neuróloga Infantil"
+    "especialidad": "Neuróloga Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Amapola Belén González Ruiz",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Amara Lisa Marcela Pereira Cifuentes",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Ambar Valdivieso",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "America Mirabal García",
-    "especialidad": "Ginecóloga"
+    "especialidad": "Ginecóloga",
+    "tratamientos": [
+      "Ginecología General 0101001"
+    ]
   },
   {
     "nombre": "Ana María Palma Pozo",
-    "especialidad": "Psiquiatra Infanto-Juvenil"
+    "especialidad": "Psiquiatra Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Angela Jeannette Santis Méndez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Angie Soledad Hernández Brell",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Antonia Paz Chávez Vega",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Antonia Zúñiga Garfias",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Aranza Antonia Navarrete Fonseca",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Arllet Annais Carrasco Arenas",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Augusta Pirozzi Vidal",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Bárbara Belén Robles Toro",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Bárbara Brito",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Bárbara Traipe Páez",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Bastián Rivas Farias",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Bélgica Monserrat Vallejos Retamal",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Blanca Lihn Gazitúa",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Camila Andrea Barra Toro",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Camila Andrea Olivares Moraga",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Camila Andrea Sommer Venegas",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Camila Belen Oyarce Molina",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": [
+      "Dermatología General 0101001"
+    ]
   },
   {
     "nombre": "Camila Belen Torres Machado",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Camila Ercilia Quiñones Anabalón",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Camila Fernanda Rojas González",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Camila Pérez Ferretti",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Camila Urzúa Abarca",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Carla Bahamondes Quezada",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Carlos Alberto Gonzalez Aranibar",
-    "especialidad": "Neurólogo Infantil"
+    "especialidad": "Neurólogo Infantil",
+    "tratamientos": [
+      "Neurología Infantil 0101210",
+      "Neurología Infantil Online",
+      "Programa PIE/Neurología infantil/ medicina familiar"
+    ]
   },
   {
     "nombre": "Carmen Isabel Zúñiga Álvarez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Carolina Andrea Valenzuela Jara",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Catalina Achondo Salas",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Catalina Alejandra Hernandez Muñoz",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": [
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Catalina Alejandra Mena Herrera",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Catalina Alexandra Piazze Fernández",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Catalina Andrea Arce Carter",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Catalina Andrea Hernández Zuñiga",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Catalina Isidora Contreras Araya",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Cecilia Isabel Cáceres Cantuarias",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Christel Fernanda Romero Maldonado",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Claudia Ignacia Mela Ortiz",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Constanza Izadora Arriaza Valenzuela",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Constanza Javiera Vallejos Neira",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Constanza Millaray Astete Arellano",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Constanza Vega Molina",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Consuelo Molina Pardo",
-    "especialidad": "Medicina General"
+    "especialidad": "Medicina General",
+    "tratamientos": []
   },
   {
     "nombre": "Cristian Marcelo Molina Medina",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Cristina Elizabeth Muñoz Vergara",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Daila Marya Daría Bello",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Dan Ariel Hartmann Schatloff",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Daniela Alexandra Silva Espinoza",
-    "especialidad": "Residente Psiquiatria Infanto-Juvenil"
+    "especialidad": "Residente Psiquiatria Infanto-Juvenil",
+    "tratamientos": [
+      "Psiquiatría Infanto-juvenil (Residente)",
+      "Psiquiatría Infanto-juvenil Online (residente)"
+    ]
   },
   {
     "nombre": "Daniela Esparza Saavedra",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Daniela Rivas",
-    "especialidad": "Neuróloga Infantil"
+    "especialidad": "Neuróloga Infantil",
+    "tratamientos": [
+      "Neurología Infantil 0101210",
+      "Neurología Infantil Online",
+      "Programa PIE/Neurología infantil/ medicina familiar"
+    ]
   },
   {
     "nombre": "Daniza Belén Bilicic Ubierna",
-    "especialidad": "Residente Dermatología Online"
+    "especialidad": "Residente Dermatología Online",
+    "tratamientos": [
+      "Dermatología General Online"
+    ]
   },
   {
     "nombre": "Dayana Bermudéz Herrera",
-    "especialidad": "Neuróloga Infantil"
+    "especialidad": "Neuróloga Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Denisse Margarita Sepulveda Berrios",
-    "especialidad": "Reumatóloga"
+    "especialidad": "Reumatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Diego Sanzana Ibañez",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": []
   },
   {
     "nombre": "Dobra Ivena Tipic Fernández",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Dominga Ugalde Cruz Coke",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Eduardo Vargas carrasco",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Eliseo Andres Fuentes Foncea",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Emilia Antonia Hidalgo Ramírez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Esteban Ignacio Castillo",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Felipe Alcayaga De la Ribera",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Felipe Andrés Solari Vergara",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": []
   },
   {
     "nombre": "Felipe Benajamín Alvear Morice",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Felipe Middleton",
-    "especialidad": "Residente Dermatología"
+    "especialidad": "Residente Dermatología",
+    "tratamientos": []
   },
   {
     "nombre": "Fernanda Arlette Hidalgo López",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Fernanda Belen Hidalgo Varas",
-    "especialidad": "Residente Neurología Infantil"
+    "especialidad": "Residente Neurología Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Fernanda Boetsch Rojas",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Fernanda Durán",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Fernanda Gallardo",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Florencia Montecinos",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Florencia Vial Videla",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Francisca Alejandra Lepe Tobar",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Francisca Angélica Martínez Vera",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Francisca Ignacia Quirós Cruz",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Francisca Merino Vial",
-    "especialidad": "Residente Psiquiatria Infanto-Juvenil"
+    "especialidad": "Residente Psiquiatria Infanto-Juvenil",
+    "tratamientos": [
+      "Psiquiatría Infanto-juvenil (Residente)",
+      "Psiquiatría Infanto-juvenil Online (residente)"
+    ]
   },
   {
     "nombre": "Francisca Moya",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": [
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Francisca Paz Cáceres Marín",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Francisca Paz Favero Figari",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Francisca Sandoval Álvarez",
-    "especialidad": "Neuróloga Infantil"
+    "especialidad": "Neuróloga Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Francisca Sofía Santana Molteni",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Francisco González",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Francisco Nuñez",
-    "especialidad": "Residente Psiquiatría Adulto"
+    "especialidad": "Residente Psiquiatría Adulto",
+    "tratamientos": [
+      "Psiquiatría Adulto (Residente)",
+      "Psiquiatría Adulto Online (Residente)"
+    ]
   },
   {
     "nombre": "Freddy Ernesto Diaz Moreno",
-    "especialidad": "Cardiólogo"
+    "especialidad": "Cardiólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Gabriela Blanchard De Colina",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Gabriela Parada",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Gonzalo Ignacio Vergara Pinto",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Gonzalo Roselló Vergara",
-    "especialidad": "Residente Psiquiatría Adulto"
+    "especialidad": "Residente Psiquiatría Adulto",
+    "tratamientos": [
+      "Psiquiatría Adulto (Residente)",
+      "Psiquiatría Adulto Online (Residente)"
+    ]
   },
   {
     "nombre": "Gustavo Adolfo Salazar Colmenares",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": []
   },
   {
     "nombre": "Gustavo Campos Salas",
-    "especialidad": "Neurólogo Infantil"
+    "especialidad": "Neurólogo Infantil",
+    "tratamientos": [
+      "Neurología Infantil 0101210",
+      "Neurología Infantil Online",
+      "Programa PIE/Neurología infantil/ medicina familiar"
+    ]
   },
   {
     "nombre": "Harry Daniel Orellana Gutiérrez",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Hugo Hernán Quintero",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Hugo Muñoz Navarrete",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": []
   },
   {
     "nombre": "Ignacio Felipe Quiero González",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Isabel Covarrubias",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Ivana Antonia González García",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Ivanna Cañete Studer",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Ivón Tapia Aguayo",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Ivonne Yoleira Carrero Contreras",
-    "especialidad": "Ginecóloga"
+    "especialidad": "Ginecóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Jaime Alejandro Zapata Sepúlveda",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Jaime Castro Iturrieta",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Javier Ignacio Contador González",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Javiera Constanza Inostroza Fagerstrom",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Javiera Constanza Sepúlveda Sáez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Javiera Daniela Corales Oñate",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Javiera Gárate Fernández",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Javiera Úbeda Vicuña",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Javiera Valentina Matamala Medel",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Jocelyn Patricia Labrín Retes",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Jorge Alejandro Olivares Leal",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "José C. Flores",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "José Gregorio Colina Flores",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "José Luis Astorga Moya",
-    "especialidad": "Psicólogo Infanto-Juvenil"
+    "especialidad": "Psicólogo Infanto-Juvenil",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Josefa Andrea Fonseca Berna",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Josefina Albornoz",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": [
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Josefina Andrea Basoalto Toledo",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Josefina Krusell",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Josefina Marcos",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Josefina Mujica Fuenzalida",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Juan Pablo Prudencio Robres",
-    "especialidad": "Residente Dermatología"
+    "especialidad": "Residente Dermatología",
+    "tratamientos": []
   },
   {
     "nombre": "Juan Pablo Rozas Vidal",
-    "especialidad": "Neurólogo Adulto"
+    "especialidad": "Neurólogo Adulto",
+    "tratamientos": [
+      "Neurología Adulto 0101209",
+      "Neurología Adulto Online"
+    ]
   },
   {
     "nombre": "Katherine Fernanda Rebolledo Stegmann",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Katherine Yanzon Escobar",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Luana Paula Millán Castañeda",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Luis Rafael Velasquez Marcano",
-    "especialidad": "Cardiólogo"
+    "especialidad": "Cardiólogo",
+    "tratamientos": [
+      "Cardiología General 0101001"
+    ]
   },
   {
     "nombre": "Macarena Del Carmen Fica Cartes",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Macarena Ignacia Rodríguez Pérez",
-    "especialidad": "Psiquiatra Infanto-Juvenil"
+    "especialidad": "Psiquiatra Infanto-Juvenil",
+    "tratamientos": [
+      "Psiquiatría Infanto-juvenil 0101213",
+      "Psiquiatría Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Macarena Paz Maldonado Leyton",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Macarena Soriano",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": [
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Magdalena Paz Pino Martínez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Mailliw Ayari García",
-    "especialidad": "Residente Neurología Infantil"
+    "especialidad": "Residente Neurología Infantil",
+    "tratamientos": [
+      "Neurología Infantil 0101210",
+      "Neurología Infantil Online"
+    ]
   },
   {
     "nombre": "Manuel Cañumir",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "María Ana Alfaro Montoya",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "María Catalina Aránguiz Soto",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "María Eugenia Huber Fasani",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "María Fernanda Scrimini Toscano",
-    "especialidad": "Endocrinóloga"
+    "especialidad": "Endocrinóloga",
+    "tratamientos": []
   },
   {
     "nombre": "María Ignacia Cancino",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "María Ignacia Contreras",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "María Ignacia Henríquez Silva",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "María Ignacia Larrachea Sifri",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "María José Arias Rojas",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "María José Bizama Bustos",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "María José Carrión Alarcón",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "María José Palma Sáez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "María José Roa Verdugo",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "María José silva",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "María José Vergara Cid (Solo telemedicina)",
-    "especialidad": "Psiquiatra Infanto-Juvenil"
+    "especialidad": "Psiquiatra Infanto-Juvenil",
+    "tratamientos": [
+      "Psiquiatría Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "María Julia Puca Coronado",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": [
+      "Dermatología 0101201"
+    ]
   },
   {
     "nombre": "Maria Lorena Giupponi",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "María Soledad Anfossi Lubascher",
-    "especialidad": "Nutricionista"
+    "especialidad": "Nutricionista",
+    "tratamientos": [
+      "Atención Integral Nutricionista 2602001",
+      "Atención Integral Nutricionista Online"
+    ]
   },
   {
     "nombre": "María Virginia Sanchez Sanchez",
-    "especialidad": "Cardióloga"
+    "especialidad": "Cardióloga",
+    "tratamientos": [
+      "Cardiología Adulto 0101301"
+    ]
   },
   {
     "nombre": "Martin Edgardo Fritzsche Villarroel",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": [
+      "Psiquiatría Adulto (Residente)",
+      "Psiquiatría Adulto Online (Residente)"
+    ]
   },
   {
     "nombre": "Martina Elyzabeth León Navarro",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Matías Ignacio Montero Morales",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Mauricio Ignacio Uribe Araneda",
-    "especialidad": "Neurólogo Adulto"
+    "especialidad": "Neurólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Melanie Contreras",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Melissa Antonia Drouillas Leyton",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Michele Pizarro",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Michelle Christina Sukerman Guardia",
-    "especialidad": "Psiquiatra Infanto-Juvenil"
+    "especialidad": "Psiquiatra Infanto-Juvenil",
+    "tratamientos": [
+      "Psiquiatría Infanto-juvenil 0101213",
+      "Psiquiatría Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Michelle Jaque Antil",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Monserrat Gabriela Yon Gárate",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Monserrat Siboney Lecaros Rojas",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Myriam Penélope Silva González",
-    "especialidad": "Psiquiatra Infanto-Juvenil"
+    "especialidad": "Psiquiatra Infanto-Juvenil",
+    "tratamientos": [
+      "Psiquiatría Infanto-juvenil 0101213",
+      "Psiquiatría Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Natali Andrea Osses Acuña",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Natalia Barra Vega",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Natalia Estefanía Cisternas Segura",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Natalia Fernanda Chávez Páez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Nur Daniela Metuaze Zeidan",
-    "especialidad": "Medicina General"
+    "especialidad": "Medicina General",
+    "tratamientos": []
   },
   {
     "nombre": "Osvaldo Patricio Vergara Valle",
-    "especialidad": "Neurólogo Adulto"
+    "especialidad": "Neurólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Pablo Filippi",
-    "especialidad": "Neurólogo Infantil"
+    "especialidad": "Neurólogo Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Pablo Vásquez Parada",
-    "especialidad": "Residente Psiquiatría Adulto"
+    "especialidad": "Residente Psiquiatría Adulto",
+    "tratamientos": [
+      "Psiquiatría Adulto (Residente)"
+    ]
   },
   {
     "nombre": "Paloma Andrea Torres de la Llosa Palacios",
-    "especialidad": "Dermatóloga"
+    "especialidad": "Dermatóloga",
+    "tratamientos": []
   },
   {
     "nombre": "Pamela Cristina Mateo Mattos",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": []
   },
   {
     "nombre": "Paola Nuñez Contreras",
-    "especialidad": "Neuróloga Infantil"
+    "especialidad": "Neuróloga Infantil",
+    "tratamientos": [
+      "Neurología Infantil 0101210",
+      "Neurología Infantil Online",
+      "Programa PIE/Neurología infantil/ medicina familiar"
+    ]
   },
   {
     "nombre": "Patricio A. Caro Guerra",
-    "especialidad": "Neurólogo Adulto"
+    "especialidad": "Neurólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Paula Javiera Vega Merino",
-    "especialidad": "Residente Neurología Infantil"
+    "especialidad": "Residente Neurología Infantil",
+    "tratamientos": [
+      "Neurología Infantil 0101210"
+    ]
   },
   {
     "nombre": "Paulina Andrea Álvarez Godoy",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Paulina Cifuentes",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Paulina Cuevas Mardones",
-    "especialidad": "Médica Familiar"
+    "especialidad": "Médica Familiar",
+    "tratamientos": []
   },
   {
     "nombre": "Paulina Sáez Venegas",
-    "especialidad": "Residente Neurología Infantil"
+    "especialidad": "Residente Neurología Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Paz Frías",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Pilar Lagomarsino Sandoya",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Pilar Ortiz Forno",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Rayanna Krause",
-    "especialidad": "Pediatría"
+    "especialidad": "Pediatría",
+    "tratamientos": [
+      "Pediatría General 0101001"
+    ]
   },
   {
     "nombre": "Renato Emiliano Pacheco Aravena",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "René Victoriano Belmar",
-    "especialidad": "Neurólogo Adulto"
+    "especialidad": "Neurólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Rodrigo Brown Fleite",
-    "especialidad": "Residente Psiquiatría Adulto"
+    "especialidad": "Residente Psiquiatría Adulto",
+    "tratamientos": [
+      "Psiquiatría Adulto (Residente)",
+      "Psiquiatría Adulto Online (Residente)"
+    ]
   },
   {
     "nombre": "Santiago Garcia Pando",
-    "especialidad": "Dermatólogo"
+    "especialidad": "Dermatólogo",
+    "tratamientos": []
   },
   {
     "nombre": "Sebastián Del Solar Zañartu",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Sebastián Honorio Menay Funes",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Sebastián Nicolás Farah",
-    "especialidad": "Psiquiatra"
+    "especialidad": "Psiquiatra",
+    "tratamientos": [
+      "Psiquiatría Adulto 0101212",
+      "PsiquiatrÍa Adulto Online"
+    ]
   },
   {
     "nombre": "Sebastián Reinaldo Drago Pérez",
-    "especialidad": "Traumatólogo"
+    "especialidad": "Traumatólogo",
+    "tratamientos": [
+      "Traumatología 0101310"
+    ]
   },
   {
     "nombre": "Sofia Amalia Francisca Kalau vom Hofe Vidaurre",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Sofía Paz Núñez Barra",
-    "especialidad": "Psicóloga Infanto-Juvenil"
+    "especialidad": "Psicóloga Infanto-Juvenil",
+    "tratamientos": []
   },
   {
     "nombre": "Tamara Muñoz Orellana",
-    "especialidad": "Neuróloga Infantil"
+    "especialidad": "Neuróloga Infantil",
+    "tratamientos": []
   },
   {
     "nombre": "Tatiana del Pilar Silva Valenzuela",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Tomás Andrés O’Brien Alvarado",
-    "especialidad": "Residente Dermatología"
+    "especialidad": "Residente Dermatología",
+    "tratamientos": [
+      "Dermatología General 0101001",
+      "Dermatología General Online"
+    ]
   },
   {
     "nombre": "Tomás Arturo Guzmán Contreras",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Valentina Alejandra Paz Barriga",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Valentina Andrea Medina Mardones",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Valentina Belén Villagra Soto",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Valentina Ortega Aravena",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Valentina Paz Torrejón Hernandez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Valentina Soledad Albrecht Cerda",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Valentina Valeria Muñoz Álvarez",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   },
   {
     "nombre": "Valeria Baboun Yazigi",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Valeria Fernanda Pérez González",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Vania Morena Urrutia",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Verónica Contreras Torres",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Vicente Tomás Muñoz Uarac",
-    "especialidad": "Psicólogo Adulto"
+    "especialidad": "Psicólogo Adulto",
+    "tratamientos": []
   },
   {
     "nombre": "Ximena Carolina de Jesús Ibarra Torres",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online"
+    ]
   },
   {
     "nombre": "Yael Orenstein Olgui",
-    "especialidad": "Psicóloga Adulto"
+    "especialidad": "Psicóloga Adulto",
+    "tratamientos": [
+      "Psicología Adulto 0902001",
+      "Psicología Adulto Online",
+      "Psicología Infanto-Juvenil 0902001",
+      "Psicología Infanto-juvenil Online"
+    ]
   }
 ]

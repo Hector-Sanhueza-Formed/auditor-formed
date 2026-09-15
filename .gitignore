@@ -9,3 +9,6 @@ node_modules/
 
 # Evidencia regenerable
 /screenshots/
+
+# Datos personales: el RUT de prueba nunca se versiona
+.env

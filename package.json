@@ -14,7 +14,11 @@
     "agendas": "node scripts/generar-agendas.js",
     "typecheck": "tsc --noEmit",
     "ver:reserva": "playwright test reserva-online --headed --workers=1",
-    "ver:listado": "playwright test profesionales --headed --workers=1"
+    "ver:listado": "playwright test profesionales --headed --workers=1",
+    "tratamientos": "node scripts/generar-tratamientos.js",
+    "test:especialidad": "playwright test reserva-especialidad",
+    "cruzar": "node scripts/cruzar-tratamientos.js",
+    "ver:especialidad": "playwright test reserva-especialidad --headed --workers=1"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",

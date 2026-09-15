@@ -1,0 +1,2249 @@
+[
+  {
+    "tratamiento": "Atención Integral Nutricionista 2602001",
+    "profesionales": [
+      {
+        "nombre": "María Soledad Anfossi Lubascher",
+        "nombreAgenda": "Nut. María Soledad Anfossi Lubascher (Desde 14 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 10
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 10
+  },
+  {
+    "tratamiento": "Atención Integral Nutricionista Online",
+    "profesionales": [
+      {
+        "nombre": "María Soledad Anfossi Lubascher",
+        "nombreAgenda": "Nut. María Soledad Anfossi Lubascher (Desde 14 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 10
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 10
+  },
+  {
+    "tratamiento": "Cardiología Adulto 0101301",
+    "profesionales": [
+      {
+        "nombre": "María Virginia Sanchez Sanchez",
+        "nombreAgenda": "Dra. María Virginia Sanchez Sanchez (Cardiología adulto)(Desde 17 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 5
+  },
+  {
+    "tratamiento": "Cardiología General 0101001",
+    "profesionales": [
+      {
+        "nombre": "Luis Velasquez Marcano",
+        "nombreAgenda": "Dr. Luis Velasquez Marcano (Cardiología)(De 14 a 95 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 22
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 22
+  },
+  {
+    "tratamiento": "Dermatología 0101201",
+    "profesionales": [
+      {
+        "nombre": "María Julia Puca C",
+        "nombreAgenda": "Dra. María Julia Puca C (Dermatología- M. general con formación Dermatología)(De 10 a 100 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 4
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 4
+  },
+  {
+    "tratamiento": "Dermatología General 0101001",
+    "profesionales": [
+      {
+        "nombre": "Tomas O’Brien Alvarado",
+        "nombreAgenda": "Dr. Tomas O’Brien Alvarado (Dermatólogia- Medico  general en proceso formacion dermatología)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Camila Belen Oyarce Molina",
+        "nombreAgenda": "Dra. Camila Belen Oyarce Molina (Dermatología- M. general en formación Dermatología)(Desde 15 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      }
+    ],
+    "totalProfesionales": 2,
+    "totalHoras": 2
+  },
+  {
+    "tratamiento": "Dermatología General Online",
+    "profesionales": [
+      {
+        "nombre": "Tomas O’Brien Alvarado",
+        "nombreAgenda": "Dr. Tomas O’Brien Alvarado (Dermatólogia- Medico  general en proceso formacion dermatología)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Daniza Bilicic",
+        "nombreAgenda": "Dra. Daniza Bilicic (Dermatología-Médico general en proceso formacion dermatología) (Desde 15 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 14
+      }
+    ],
+    "totalProfesionales": 2,
+    "totalHoras": 15
+  },
+  {
+    "tratamiento": "Endocrinología Adulto General 0101001",
+    "profesionales": [],
+    "totalProfesionales": 0,
+    "totalHoras": 0
+  },
+  {
+    "tratamiento": "Endocrinología Adulto General Online 0108001",
+    "profesionales": [],
+    "totalProfesionales": 0,
+    "totalHoras": 0
+  },
+  {
+    "tratamiento": "Ginecología General 0101001",
+    "profesionales": [
+      {
+        "nombre": "America Mirabal G",
+        "nombreAgenda": "Dra. America Mirabal G (Ginecología- Medicina general con formación Ginecología) (desde 14 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 15
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 15
+  },
+  {
+    "tratamiento": "Holter de presión arterial 1701009",
+    "profesionales": [
+      {
+        "nombre": "Enf. Gianinna Ricapito González",
+        "nombreAgenda": "Enf. Gianinna Ricapito González",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 39
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 39
+  },
+  {
+    "tratamiento": "Medicina Familiar Adulto 0101305",
+    "profesionales": [],
+    "totalProfesionales": 0,
+    "totalHoras": 0
+  },
+  {
+    "tratamiento": "Medicina General 0101001",
+    "profesionales": [],
+    "totalProfesionales": 0,
+    "totalHoras": 0
+  },
+  {
+    "tratamiento": "Medicina General Online",
+    "profesionales": [],
+    "totalProfesionales": 0,
+    "totalHoras": 0
+  },
+  {
+    "tratamiento": "Neurología Adulto 0101209",
+    "profesionales": [
+      {
+        "nombre": "Juan Pablo Rozas Vidal",
+        "nombreAgenda": "Dr. Juan Pablo Rozas Vidal (Neurología)(Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 6
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 6
+  },
+  {
+    "tratamiento": "Neurología Adulto Online",
+    "profesionales": [
+      {
+        "nombre": "Juan Pablo Rozas Vidal",
+        "nombreAgenda": "Dr. Juan Pablo Rozas Vidal (Neurología)(Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 6
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 6
+  },
+  {
+    "tratamiento": "Neurología Infantil 0101210",
+    "profesionales": [
+      {
+        "nombre": "Gustavo Eduardo Campos Salas",
+        "nombreAgenda": "Dr. Gustavo Eduardo Campos Salas (Neurología Infantil) (0 - 18 Años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Paola Nuñez Contreras",
+        "nombreAgenda": "Dra. Paola Nuñez Contreras (Neurología Infantil) (0 - 15 Años )",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Carlos Alberto Gonzalez Aranibar",
+        "nombreAgenda": "Dr. Carlos Alberto Gonzalez Aranibar (Neurología Infantil)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Daniela Rivas Figueroa",
+        "nombreAgenda": "Dra. Daniela Rivas Figueroa (Neurología Infantil)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Mailliw Ayari García González",
+        "nombreAgenda": "Dra. Mailliw Ayari García González (Neurología- M. general en formación Neurología)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Paula Javiera Vega Merino",
+        "nombreAgenda": "Dra. Paula Javiera Vega Merino (Residente Neurología Infantil)(0 a 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      }
+    ],
+    "totalProfesionales": 6,
+    "totalHoras": 14
+  },
+  {
+    "tratamiento": "Neurología Infantil Online",
+    "profesionales": [
+      {
+        "nombre": "Gustavo Eduardo Campos Salas",
+        "nombreAgenda": "Dr. Gustavo Eduardo Campos Salas (Neurología Infantil) (0 - 18 Años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Paola Nuñez Contreras",
+        "nombreAgenda": "Dra. Paola Nuñez Contreras (Neurología Infantil) (0 - 15 Años )",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Carlos Alberto Gonzalez Aranibar",
+        "nombreAgenda": "Dr. Carlos Alberto Gonzalez Aranibar (Neurología Infantil)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Daniela Rivas Figueroa",
+        "nombreAgenda": "Dra. Daniela Rivas Figueroa (Neurología Infantil)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Mailliw Ayari García González",
+        "nombreAgenda": "Dra. Mailliw Ayari García González (Neurología- M. general en formación Neurología)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      }
+    ],
+    "totalProfesionales": 5,
+    "totalHoras": 8
+  },
+  {
+    "tratamiento": "Pediatría General 0101001",
+    "profesionales": [
+      {
+        "nombre": "Rayanna Krause",
+        "nombreAgenda": "Dra. Rayanna Krause (Pediatría- M. general con formación Pediatría) (De 0 a 15 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 21
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 21
+  },
+  {
+    "tratamiento": "Programa PIE/Neurología infantil/ medicina familiar",
+    "profesionales": [
+      {
+        "nombre": "Gustavo Eduardo Campos Salas",
+        "nombreAgenda": "Dr. Gustavo Eduardo Campos Salas (Neurología Infantil) (0 - 18 Años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Paola Nuñez Contreras",
+        "nombreAgenda": "Dra. Paola Nuñez Contreras (Neurología Infantil) (0 - 15 Años )",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Carlos Alberto Gonzalez Aranibar",
+        "nombreAgenda": "Dr. Carlos Alberto Gonzalez Aranibar (Neurología Infantil)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Daniela Rivas Figueroa",
+        "nombreAgenda": "Dra. Daniela Rivas Figueroa (Neurología Infantil)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      }
+    ],
+    "totalProfesionales": 4,
+    "totalHoras": 6
+  },
+  {
+    "tratamiento": "Psicología Adulto 0902001",
+    "profesionales": [
+      {
+        "nombre": "Francisco Javier González Rojas",
+        "nombreAgenda": "Ps. Francisco Javier González Rojas (18 a 80 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Gonzalo Ignacio Vergara Pinto",
+        "nombreAgenda": "Ps. Gonzalo Ignacio Vergara Pinto (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881",
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 8
+      },
+      {
+        "nombre": "Josefina Andrea Basoalto Toledo",
+        "nombreAgenda": "Ps. Josefina Andrea Basoalto Toledo (18 a 50 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Manuel Cañumir Llaulén",
+        "nombreAgenda": "Ps. Manuel Cañumir Llaulén (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Constanza Belén Vega Molina",
+        "nombreAgenda": "Ps. Constanza Belén Vega Molina (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Daila Marya Daría Bello Bustos",
+        "nombreAgenda": "Ps. Daila Marya Daría Bello Bustos (15 a 80 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Ivana Antonia González García",
+        "nombreAgenda": "Ps. Ivana Antonia González García (De 18 a 55 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Jocelyn Patricia Labrín Reyes",
+        "nombreAgenda": "Ps. Jocelyn Patricia Labrín Reyes (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Sebastián Honorio Menay Funes",
+        "nombreAgenda": "Ps. Sebastián Honorio Menay Funes (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Antonia Zúñiga Garfias",
+        "nombreAgenda": "Ps. Antonia Zúñiga Garfias (5 a 23 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Catalina Andrea Arce Carter",
+        "nombreAgenda": "Ps. Catalina Andrea Arce Carter (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Cecilia Isabel Cáceres Cantuarias",
+        "nombreAgenda": "Ps. Cecilia Isabel Cáceres Cantuarias (5 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Florencia Vial Videla",
+        "nombreAgenda": "Ps. Florencia Vial Videla (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Javiera Belén Úbeda Vicuña",
+        "nombreAgenda": "Ps. Javiera Belén Úbeda Vicuña (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Martina Elyzabeth León Navarro",
+        "nombreAgenda": "Ps. Martina Elyzabeth León Navarro (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL",
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Valentina Jesús Ortega Aravena )",
+        "nombreAgenda": "Ps. Valentina Jesús Ortega Aravena (5 a 35 años))",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Carolina Andrea Valenzuela Jara",
+        "nombreAgenda": "Ps. Carolina Andrea Valenzuela Jara (16 a 70 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Alexandra Piazze Fernández",
+        "nombreAgenda": "Ps. Catalina Alexandra Piazze Fernández (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 10
+      },
+      {
+        "nombre": "Catalina Andrea Hernández Zúñiga",
+        "nombreAgenda": "Ps. Catalina Andrea Hernández Zúñiga (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Dobra Ivena Tipic Fernández",
+        "nombreAgenda": "Ps. Dobra Ivena Tipic Fernández (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "Francisca Sofía Santana Molteni",
+        "nombreAgenda": "Ps. Francisca Sofía Santana Molteni (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "José Luis Astorga Moya",
+        "nombreAgenda": "Ps. José Luis Astorga Moya (5 a 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Melissa Antonia Drouillas Leyton",
+        "nombreAgenda": "Ps. Melissa Antonia Drouillas Leyton (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "Sebastian Del Solar Zañartu",
+        "nombreAgenda": "Ps. Sebastian Del Solar Zañartu (Desde 14 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Blanca Lihn Gazitúa",
+        "nombreAgenda": "Ps. Blanca Lihn Gazitúa (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Camila Olivia Urzúa Abarca",
+        "nombreAgenda": "Ps. Camila Olivia Urzúa Abarca (15 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Constanza Millaray Astete Arellano",
+        "nombreAgenda": "Ps. Constanza Millaray Astete Arellano (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "María Ignacia Cancino Barrenechea",
+        "nombreAgenda": "Ps. María Ignacia Cancino Barrenechea (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881",
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 8
+      },
+      {
+        "nombre": "Michele Nicole Pizarro Vásquez",
+        "nombreAgenda": "Ps. Michele Nicole Pizarro Vásquez (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Aranza Antonia Navarrete Fonseca",
+        "nombreAgenda": "Ps. Aranza Antonia Navarrete Fonseca (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Cristina Elizabeth Muñoz Vergara",
+        "nombreAgenda": "Ps. Cristina Elizabeth Muñoz Vergara (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Ivón Tapia Aguayo",
+        "nombreAgenda": "Ps. Ivón Tapia Aguayo (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Javiera Daniela Corales Oñate",
+        "nombreAgenda": "Ps. Javiera Daniela Corales Oñate (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Javiera Valentina Matamala Medel",
+        "nombreAgenda": "Ps. Javiera Valentina Matamala Medel (2 a 90 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Magdalena Paz Pino Martínez",
+        "nombreAgenda": "Ps. Magdalena Paz Pino Martínez (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Michelle Martina Jaque Antil",
+        "nombreAgenda": "Ps. Michelle Martina Jaque Antil (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Achondo Salas",
+        "nombreAgenda": "Ps. Catalina Achondo Salas (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Florencia Sofía Montecinos Latorre",
+        "nombreAgenda": "Ps. Florencia Sofía Montecinos Latorre (De 17 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Gabriela Isabel Parada Silva",
+        "nombreAgenda": "Ps. Gabriela Isabel Parada Silva (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Jaime Nicolás Castro Iturrieta",
+        "nombreAgenda": "Ps. Jaime Nicolás Castro Iturrieta (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "María Catalina Aránguiz Soto",
+        "nombreAgenda": "Ps. María Catalina Aránguiz Soto (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "María Ignacia Larrachea Sifri",
+        "nombreAgenda": "Ps. María Ignacia Larrachea Sifri (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "María José Bizama Bustos",
+        "nombreAgenda": "Ps. María José Bizama Bustos (De 16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Melanie Anays Contreras Saldaña",
+        "nombreAgenda": "Ps. Melanie Anays Contreras Saldaña (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Valentina Andrea Medina Mardones",
+        "nombreAgenda": "Ps. Valentina Andrea Medina Mardones (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Valentina Valeria Muñoz Álvarez",
+        "nombreAgenda": "Ps. Valentina Valeria Muñoz Álvarez (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Camila Fernanda Rojas González",
+        "nombreAgenda": "Ps. Camila Fernanda Rojas González (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Isidora Contreras Araya",
+        "nombreAgenda": "Ps. Catalina Isidora Contreras Araya (4 a 19 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Dominga Ugalde Cruz Coke",
+        "nombreAgenda": "Ps. Dominga  Ugalde Cruz Coke (17 a 65 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Felipe Benjamín Alvear Morice",
+        "nombreAgenda": "Ps. Felipe Benjamín Alvear Morice (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 13
+      },
+      {
+        "nombre": "Ignacio Felipe Quiero González",
+        "nombreAgenda": "Ps. Ignacio Felipe Quiero González (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "María José Carrión Alarcón",
+        "nombreAgenda": "Ps. María José Carrión Alarcón (18 a 100 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "María José Palma Sáez",
+        "nombreAgenda": "Ps. María José Palma Sáez (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 13
+      },
+      {
+        "nombre": "María José Roa Verdugo",
+        "nombreAgenda": "Ps. María José Roa Verdugo (18 a 75 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Paulina Andrea Alvarez Godoy",
+        "nombreAgenda": "Ps. Paulina Andrea Alvarez Godoy (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 14
+      },
+      {
+        "nombre": "Pilar Lagomarsino Sandoya",
+        "nombreAgenda": "Ps. Pilar Lagomarsino Sandoya (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Tomás Arturo Guzmán Contreras",
+        "nombreAgenda": "Ps. Tomás Arturo Guzmán Contreras (18 a 80 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Valeria Fernanda Pérez González",
+        "nombreAgenda": "Ps. Valeria Fernanda Pérez González (Desde 15 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "Yael Orenstein Olgui",
+        "nombreAgenda": "Ps. Yael Orenstein Olgui (14 a 65 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 14
+      },
+      {
+        "nombre": "Ámbar Rocio Valdivieso Riveros",
+        "nombreAgenda": "Ps. Ámbar Rocio Valdivieso Riveros (17 a 50 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Fernanda Gallardo Núñez",
+        "nombreAgenda": "Ps. Fernanda Gallardo Núñez (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Pilar Ortiz Forno",
+        "nombreAgenda": "Ps. Pilar Ortiz Forno (15 a 65 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Vania Constanza Morena Urrutia",
+        "nombreAgenda": "Ps. Vania Constanza Morena Urrutia (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Valentina Alejandra Paz Barriga",
+        "nombreAgenda": "Ps. Valentina Alejandra Paz Barriga (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "María José Arias Rojas",
+        "nombreAgenda": "Ps. María José Arias Rojas (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Francisca Alejandra Lepe Tobar",
+        "nombreAgenda": "Ps. Francisca Alejandra Lepe Tobar (6 a 60 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Ximena Carolina de Jesús Ibarra Torres",
+        "nombreAgenda": "Ps. Ximena Carolina de Jesús Ibarra Torres (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      }
+    ],
+    "totalProfesionales": 67,
+    "totalHoras": 313
+  },
+  {
+    "tratamiento": "Psicología Adulto Online",
+    "profesionales": [
+      {
+        "nombre": "Francisco Javier González Rojas",
+        "nombreAgenda": "Ps. Francisco Javier González Rojas (18 a 80 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Gonzalo Ignacio Vergara Pinto",
+        "nombreAgenda": "Ps. Gonzalo Ignacio Vergara Pinto (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881",
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 8
+      },
+      {
+        "nombre": "Josefina Andrea Basoalto Toledo",
+        "nombreAgenda": "Ps. Josefina Andrea Basoalto Toledo (18 a 50 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Manuel Cañumir Llaulén",
+        "nombreAgenda": "Ps. Manuel Cañumir Llaulén (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Constanza Belén Vega Molina",
+        "nombreAgenda": "Ps. Constanza Belén Vega Molina (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Daila Marya Daría Bello Bustos",
+        "nombreAgenda": "Ps. Daila Marya Daría Bello Bustos (15 a 80 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Ivana Antonia González García",
+        "nombreAgenda": "Ps. Ivana Antonia González García (De 18 a 55 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Jocelyn Patricia Labrín Reyes",
+        "nombreAgenda": "Ps. Jocelyn Patricia Labrín Reyes (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Sebastián Honorio Menay Funes",
+        "nombreAgenda": "Ps. Sebastián Honorio Menay Funes (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Antonia Zúñiga Garfias",
+        "nombreAgenda": "Ps. Antonia Zúñiga Garfias (5 a 23 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Catalina Andrea Arce Carter",
+        "nombreAgenda": "Ps. Catalina Andrea Arce Carter (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Cecilia Isabel Cáceres Cantuarias",
+        "nombreAgenda": "Ps. Cecilia Isabel Cáceres Cantuarias (5 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Florencia Vial Videla",
+        "nombreAgenda": "Ps. Florencia Vial Videla (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Javiera Belén Úbeda Vicuña",
+        "nombreAgenda": "Ps. Javiera Belén Úbeda Vicuña (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Martina Elyzabeth León Navarro",
+        "nombreAgenda": "Ps. Martina Elyzabeth León Navarro (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL",
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Valentina Jesús Ortega Aravena )",
+        "nombreAgenda": "Ps. Valentina Jesús Ortega Aravena (5 a 35 años))",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Carolina Andrea Valenzuela Jara",
+        "nombreAgenda": "Ps. Carolina Andrea Valenzuela Jara (16 a 70 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Alexandra Piazze Fernández",
+        "nombreAgenda": "Ps. Catalina Alexandra Piazze Fernández (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 10
+      },
+      {
+        "nombre": "Catalina Andrea Hernández Zúñiga",
+        "nombreAgenda": "Ps. Catalina Andrea Hernández Zúñiga (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Dobra Ivena Tipic Fernández",
+        "nombreAgenda": "Ps. Dobra Ivena Tipic Fernández (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "Francisca Sofía Santana Molteni",
+        "nombreAgenda": "Ps. Francisca Sofía Santana Molteni (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "José Luis Astorga Moya",
+        "nombreAgenda": "Ps. José Luis Astorga Moya (5 a 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Melissa Antonia Drouillas Leyton",
+        "nombreAgenda": "Ps. Melissa Antonia Drouillas Leyton (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "Sebastian Del Solar Zañartu",
+        "nombreAgenda": "Ps. Sebastian Del Solar Zañartu (Desde 14 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Blanca Lihn Gazitúa",
+        "nombreAgenda": "Ps. Blanca Lihn Gazitúa (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Camila Olivia Urzúa Abarca",
+        "nombreAgenda": "Ps. Camila Olivia Urzúa Abarca (15 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Constanza Millaray Astete Arellano",
+        "nombreAgenda": "Ps. Constanza Millaray Astete Arellano (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "María Ignacia Cancino Barrenechea",
+        "nombreAgenda": "Ps. María Ignacia Cancino Barrenechea (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881",
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 8
+      },
+      {
+        "nombre": "Michele Nicole Pizarro Vásquez",
+        "nombreAgenda": "Ps. Michele Nicole Pizarro Vásquez (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Aranza Antonia Navarrete Fonseca",
+        "nombreAgenda": "Ps. Aranza Antonia Navarrete Fonseca (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Cristina Elizabeth Muñoz Vergara",
+        "nombreAgenda": "Ps. Cristina Elizabeth Muñoz Vergara (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Ivón Tapia Aguayo",
+        "nombreAgenda": "Ps. Ivón Tapia Aguayo (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Javiera Daniela Corales Oñate",
+        "nombreAgenda": "Ps. Javiera Daniela Corales Oñate (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Javiera Valentina Matamala Medel",
+        "nombreAgenda": "Ps. Javiera Valentina Matamala Medel (2 a 90 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Magdalena Paz Pino Martínez",
+        "nombreAgenda": "Ps. Magdalena Paz Pino Martínez (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Michelle Martina Jaque Antil",
+        "nombreAgenda": "Ps. Michelle Martina Jaque Antil (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Achondo Salas",
+        "nombreAgenda": "Ps. Catalina Achondo Salas (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Florencia Sofía Montecinos Latorre",
+        "nombreAgenda": "Ps. Florencia Sofía Montecinos Latorre (De 17 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Gabriela Isabel Parada Silva",
+        "nombreAgenda": "Ps. Gabriela Isabel Parada Silva (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Jaime Nicolás Castro Iturrieta",
+        "nombreAgenda": "Ps. Jaime Nicolás Castro Iturrieta (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "María Catalina Aránguiz Soto",
+        "nombreAgenda": "Ps. María Catalina Aránguiz Soto (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "María Ignacia Larrachea Sifri",
+        "nombreAgenda": "Ps. María Ignacia Larrachea Sifri (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "María José Bizama Bustos",
+        "nombreAgenda": "Ps. María José Bizama Bustos (De 16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Melanie Anays Contreras Saldaña",
+        "nombreAgenda": "Ps. Melanie Anays Contreras Saldaña (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Valentina Andrea Medina Mardones",
+        "nombreAgenda": "Ps. Valentina Andrea Medina Mardones (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Valentina Valeria Muñoz Álvarez",
+        "nombreAgenda": "Ps. Valentina Valeria Muñoz Álvarez (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Camila Fernanda Rojas González",
+        "nombreAgenda": "Ps. Camila Fernanda Rojas González (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Isidora Contreras Araya",
+        "nombreAgenda": "Ps. Catalina Isidora Contreras Araya (4 a 19 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Dominga Ugalde Cruz Coke",
+        "nombreAgenda": "Ps. Dominga  Ugalde Cruz Coke (17 a 65 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Felipe Benjamín Alvear Morice",
+        "nombreAgenda": "Ps. Felipe Benjamín Alvear Morice (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 13
+      },
+      {
+        "nombre": "Ignacio Felipe Quiero González",
+        "nombreAgenda": "Ps. Ignacio Felipe Quiero González (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "María José Carrión Alarcón",
+        "nombreAgenda": "Ps. María José Carrión Alarcón (18 a 100 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "María José Palma Sáez",
+        "nombreAgenda": "Ps. María José Palma Sáez (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 13
+      },
+      {
+        "nombre": "María José Roa Verdugo",
+        "nombreAgenda": "Ps. María José Roa Verdugo (18 a 75 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Paulina Andrea Alvarez Godoy",
+        "nombreAgenda": "Ps. Paulina Andrea Alvarez Godoy (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 14
+      },
+      {
+        "nombre": "Pilar Lagomarsino Sandoya",
+        "nombreAgenda": "Ps. Pilar Lagomarsino Sandoya (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Tomás Arturo Guzmán Contreras",
+        "nombreAgenda": "Ps. Tomás Arturo Guzmán Contreras (18 a 80 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Valeria Fernanda Pérez González",
+        "nombreAgenda": "Ps. Valeria Fernanda Pérez González (Desde 15 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "Yael Orenstein Olgui",
+        "nombreAgenda": "Ps. Yael Orenstein Olgui (14 a 65 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 14
+      },
+      {
+        "nombre": "Ámbar Rocio Valdivieso Riveros",
+        "nombreAgenda": "Ps. Ámbar Rocio Valdivieso Riveros (17 a 50 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Fernanda Gallardo Núñez",
+        "nombreAgenda": "Ps. Fernanda Gallardo Núñez (18 a 60 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Pilar Ortiz Forno",
+        "nombreAgenda": "Ps. Pilar Ortiz Forno (15 a 65 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Vania Constanza Morena Urrutia",
+        "nombreAgenda": "Ps. Vania Constanza Morena Urrutia (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Valentina Alejandra Paz Barriga",
+        "nombreAgenda": "Ps. Valentina Alejandra Paz Barriga (18 a 70 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "María José Arias Rojas",
+        "nombreAgenda": "Ps. María José Arias Rojas (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Fernanda Arlette Hidalgo López",
+        "nombreAgenda": "Ps. Fernanda Arlette Hidalgo López (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Francisca Alejandra Lepe Tobar",
+        "nombreAgenda": "Ps. Francisca Alejandra Lepe Tobar (6 a 60 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Ximena Carolina de Jesús Ibarra Torres",
+        "nombreAgenda": "Ps. Ximena Carolina de Jesús Ibarra Torres (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      }
+    ],
+    "totalProfesionales": 68,
+    "totalHoras": 319
+  },
+  {
+    "tratamiento": "Psicología Infanto-Juvenil 0902001",
+    "profesionales": [
+      {
+        "nombre": "Macarena Pía Soriano Bascur",
+        "nombreAgenda": "Ps. Macarena Pía Soriano Bascur (10 a 17 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Daila Marya Daría Bello Bustos",
+        "nombreAgenda": "Ps. Daila Marya Daría Bello Bustos (15 a 80 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Ivana Antonia González García",
+        "nombreAgenda": "Ps. Ivana Antonia González García (De 18 a 55 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Sebastián Honorio Menay Funes",
+        "nombreAgenda": "Ps. Sebastián Honorio Menay Funes (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Valentina Belén Villagra Soto",
+        "nombreAgenda": "Ps. Valentina Belén Villagra Soto ( 2 a 25 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Antonia Zúñiga Garfias",
+        "nombreAgenda": "Ps. Antonia Zúñiga Garfias (5 a 23 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Cecilia Isabel Cáceres Cantuarias",
+        "nombreAgenda": "Ps. Cecilia Isabel Cáceres Cantuarias (5 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Florencia Vial Videla",
+        "nombreAgenda": "Ps. Florencia Vial Videla (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Francisca Paz Moya Pérez",
+        "nombreAgenda": "Ps. Francisca Paz Moya Pérez (7 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Valentina Jesús Ortega Aravena )",
+        "nombreAgenda": "Ps. Valentina Jesús Ortega Aravena (5 a 35 años))",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Carolina Andrea Valenzuela Jara",
+        "nombreAgenda": "Ps. Carolina Andrea Valenzuela Jara (16 a 70 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Alexandra Piazze Fernández",
+        "nombreAgenda": "Ps. Catalina Alexandra Piazze Fernández (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 10
+      },
+      {
+        "nombre": "Catalina Andrea Hernández Zúñiga",
+        "nombreAgenda": "Ps. Catalina Andrea Hernández Zúñiga (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Dobra Ivena Tipic Fernández",
+        "nombreAgenda": "Ps. Dobra Ivena Tipic Fernández (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "José Luis Astorga Moya",
+        "nombreAgenda": "Ps. José Luis Astorga Moya (5 a 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Sebastian Del Solar Zañartu",
+        "nombreAgenda": "Ps. Sebastian Del Solar Zañartu (Desde 14 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Camila Olivia Urzúa Abarca",
+        "nombreAgenda": "Ps. Camila Olivia Urzúa Abarca (15 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Josefina Albornoz Zambrano",
+        "nombreAgenda": "Ps. Josefina Albornoz Zambrano (3 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Catalina Alejandra Hernandez Muñoz",
+        "nombreAgenda": "Ps. Catalina Alejandra Hernandez Muñoz (4 a 17 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Javiera Valentina Matamala Medel",
+        "nombreAgenda": "Ps. Javiera Valentina Matamala Medel (2 a 90 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "María Catalina Aránguiz Soto",
+        "nombreAgenda": "Ps. María Catalina Aránguiz Soto (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "María José Bizama Bustos",
+        "nombreAgenda": "Ps. María José Bizama Bustos (De 16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Melanie Anays Contreras Saldaña",
+        "nombreAgenda": "Ps. Melanie Anays Contreras Saldaña (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Valentina Valeria Muñoz Álvarez",
+        "nombreAgenda": "Ps. Valentina Valeria Muñoz Álvarez (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Catalina Isidora Contreras Araya",
+        "nombreAgenda": "Ps. Catalina Isidora Contreras Araya (4 a 19 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Felipe Benjamín Alvear Morice",
+        "nombreAgenda": "Ps. Felipe Benjamín Alvear Morice (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 13
+      },
+      {
+        "nombre": "Ignacio Felipe Quiero González",
+        "nombreAgenda": "Ps. Ignacio Felipe Quiero González (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Pilar Lagomarsino Sandoya",
+        "nombreAgenda": "Ps. Pilar Lagomarsino Sandoya (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Yael Orenstein Olgui",
+        "nombreAgenda": "Ps. Yael Orenstein Olgui (14 a 65 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 14
+      },
+      {
+        "nombre": "Pilar Ortiz Forno",
+        "nombreAgenda": "Ps. Pilar Ortiz Forno (15 a 65 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "María José Arias Rojas",
+        "nombreAgenda": "Ps. María José Arias Rojas (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Francisca Alejandra Lepe Tobar",
+        "nombreAgenda": "Ps. Francisca Alejandra Lepe Tobar (6 a 60 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      }
+    ],
+    "totalProfesionales": 32,
+    "totalHoras": 143
+  },
+  {
+    "tratamiento": "Psicología Infanto-juvenil Online",
+    "profesionales": [
+      {
+        "nombre": "Macarena Pía Soriano Bascur",
+        "nombreAgenda": "Ps. Macarena Pía Soriano Bascur (10 a 17 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Daila Marya Daría Bello Bustos",
+        "nombreAgenda": "Ps. Daila Marya Daría Bello Bustos (15 a 80 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Ivana Antonia González García",
+        "nombreAgenda": "Ps. Ivana Antonia González García (De 18 a 55 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Sebastián Honorio Menay Funes",
+        "nombreAgenda": "Ps. Sebastián Honorio Menay Funes (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Valentina Belén Villagra Soto",
+        "nombreAgenda": "Ps. Valentina Belén Villagra Soto ( 2 a 25 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Antonia Zúñiga Garfias",
+        "nombreAgenda": "Ps. Antonia Zúñiga Garfias (5 a 23 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Cecilia Isabel Cáceres Cantuarias",
+        "nombreAgenda": "Ps. Cecilia Isabel Cáceres Cantuarias (5 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Florencia Vial Videla",
+        "nombreAgenda": "Ps. Florencia Vial Videla (18 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Francisca Paz Moya Pérez",
+        "nombreAgenda": "Ps. Francisca Paz Moya Pérez (7 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Valentina Jesús Ortega Aravena )",
+        "nombreAgenda": "Ps. Valentina Jesús Ortega Aravena (5 a 35 años))",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Carolina Andrea Valenzuela Jara",
+        "nombreAgenda": "Ps. Carolina Andrea Valenzuela Jara (16 a 70 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Catalina Alexandra Piazze Fernández",
+        "nombreAgenda": "Ps. Catalina Alexandra Piazze Fernández (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 10
+      },
+      {
+        "nombre": "Catalina Andrea Hernández Zúñiga",
+        "nombreAgenda": "Ps. Catalina Andrea Hernández Zúñiga (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Dobra Ivena Tipic Fernández",
+        "nombreAgenda": "Ps. Dobra Ivena Tipic Fernández (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 12
+      },
+      {
+        "nombre": "José Luis Astorga Moya",
+        "nombreAgenda": "Ps. José Luis Astorga Moya (5 a 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Sebastian Del Solar Zañartu",
+        "nombreAgenda": "Ps. Sebastian Del Solar Zañartu (Desde 14 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "Camila Olivia Urzúa Abarca",
+        "nombreAgenda": "Ps. Camila Olivia Urzúa Abarca (15 a 40 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Josefina Albornoz Zambrano",
+        "nombreAgenda": "Ps. Josefina Albornoz Zambrano (3 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Catalina Alejandra Hernandez Muñoz",
+        "nombreAgenda": "Ps. Catalina Alejandra Hernandez Muñoz (4 a 17 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Javiera Valentina Matamala Medel",
+        "nombreAgenda": "Ps. Javiera Valentina Matamala Medel (2 a 90 años)",
+        "sucursales": [
+          "Formed/ Concepción/ Rengo 94"
+        ],
+        "horas": 4
+      },
+      {
+        "nombre": "María Catalina Aránguiz Soto",
+        "nombreAgenda": "Ps. María Catalina Aránguiz Soto (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "María José Bizama Bustos",
+        "nombreAgenda": "Ps. María José Bizama Bustos (De 16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Melanie Anays Contreras Saldaña",
+        "nombreAgenda": "Ps. Melanie Anays Contreras Saldaña (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Valentina Valeria Muñoz Álvarez",
+        "nombreAgenda": "Ps. Valentina Valeria Muñoz Álvarez (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 6
+      },
+      {
+        "nombre": "Catalina Isidora Contreras Araya",
+        "nombreAgenda": "Ps. Catalina Isidora Contreras Araya (4 a 19 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Felipe Benjamín Alvear Morice",
+        "nombreAgenda": "Ps. Felipe Benjamín Alvear Morice (15 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 13
+      },
+      {
+        "nombre": "Ignacio Felipe Quiero González",
+        "nombreAgenda": "Ps. Ignacio Felipe Quiero González (16 a 99 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Pilar Lagomarsino Sandoya",
+        "nombreAgenda": "Ps. Pilar Lagomarsino Sandoya (Desde 16 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 7
+      },
+      {
+        "nombre": "Yael Orenstein Olgui",
+        "nombreAgenda": "Ps. Yael Orenstein Olgui (14 a 65 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 14
+      },
+      {
+        "nombre": "Pilar Ortiz Forno",
+        "nombreAgenda": "Ps. Pilar Ortiz Forno (15 a 65 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "María José Arias Rojas",
+        "nombreAgenda": "Ps. María José Arias Rojas (18 a 90 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Fidel Oteiza 1971 SALUD MENTAL"
+        ],
+        "horas": 2
+      },
+      {
+        "nombre": "Francisca Alejandra Lepe Tobar",
+        "nombreAgenda": "Ps. Francisca Alejandra Lepe Tobar (6 a 60 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      }
+    ],
+    "totalProfesionales": 32,
+    "totalHoras": 143
+  },
+  {
+    "tratamiento": "Psiquiatría Adulto (Residente)",
+    "profesionales": [
+      {
+        "nombre": "Francisco Javier Núñez Delgado",
+        "nombreAgenda": "Dr. Francisco Javier Núñez Delgado (Psiquiatría -M.general en formación Psiquiatría) (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Pablo Vásquez Parada",
+        "nombreAgenda": "Dr. Pablo Vásquez Parada (Residente Psiquiatría Adultos)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 8
+      },
+      {
+        "nombre": "Rodrigo Brown Fleite",
+        "nombreAgenda": "Dr. Rodrigo Brown Fleite (Psiquiatría- M. general con formación Psiquiatría) (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Gonzalo Roselló Vergara",
+        "nombreAgenda": "Dr. Gonzalo Roselló Vergara (Psiquiatría -M.general en formación Psiquiatría)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Martin Edgardo Fritzsche V",
+        "nombreAgenda": "Dr. Martin Edgardo Fritzsche V (Psiquiatría- M. general en formación Psiquiatría)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      }
+    ],
+    "totalProfesionales": 5,
+    "totalHoras": 21
+  },
+  {
+    "tratamiento": "Psiquiatría Adulto 0101212",
+    "profesionales": [
+      {
+        "nombre": "Sebastián Nicolás Farah",
+        "nombreAgenda": "Dr. Sebastián Nicolás Farah (Psiquiatría- M. general con formación Psiquiatría)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 1
+  },
+  {
+    "tratamiento": "PsiquiatrÍa Adulto Online",
+    "profesionales": [
+      {
+        "nombre": "Sebastián Nicolás Farah",
+        "nombreAgenda": "Dr. Sebastián Nicolás Farah (Psiquiatría- M. general con formación Psiquiatría)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 1
+  },
+  {
+    "tratamiento": "Psiquiatría Adulto Online (Residente)",
+    "profesionales": [
+      {
+        "nombre": "Francisco Javier Núñez Delgado",
+        "nombreAgenda": "Dr. Francisco Javier Núñez Delgado (Psiquiatría -M.general en formación Psiquiatría) (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Rodrigo Brown Fleite",
+        "nombreAgenda": "Dr. Rodrigo Brown Fleite (Psiquiatría- M. general con formación Psiquiatría) (Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 5
+      },
+      {
+        "nombre": "Gonzalo Roselló Vergara",
+        "nombreAgenda": "Dr. Gonzalo Roselló Vergara (Psiquiatría -M.general en formación Psiquiatría)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      },
+      {
+        "nombre": "Martin Edgardo Fritzsche V",
+        "nombreAgenda": "Dr. Martin Edgardo Fritzsche V (Psiquiatría- M. general en formación Psiquiatría)(Desde 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 2
+      }
+    ],
+    "totalProfesionales": 4,
+    "totalHoras": 13
+  },
+  {
+    "tratamiento": "Psiquiatría Infanto-juvenil (Residente)",
+    "profesionales": [
+      {
+        "nombre": "Daniela Alexandra Silva E",
+        "nombreAgenda": "Dra. Daniela Alexandra Silva E (Psiquiatría - M. general en formación Psiquiatría) (0 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Francisca Merino Vial",
+        "nombreAgenda": "Dra. Francisca Merino Vial (Psiquiatría- M. general en formación Psiquiatría) (0 a 20 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 3
+      }
+    ],
+    "totalProfesionales": 2,
+    "totalHoras": 4
+  },
+  {
+    "tratamiento": "Psiquiatría Infanto-juvenil 0101213",
+    "profesionales": [
+      {
+        "nombre": "Macarena Ignacia Rodríguez Pérez",
+        "nombreAgenda": "Dra. Macarena Ignacia Rodríguez Pérez (Psiquiatría Infantil)(Menores 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Myriam Penélope Silva González",
+        "nombreAgenda": "Dra. Myriam Penélope Silva González (Psiquiatría infantojuvenil) (0 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881",
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 8
+      },
+      {
+        "nombre": "Michelle Christina Sukerman Guardia",
+        "nombreAgenda": "Dra. Michelle Christina Sukerman Guardia (Psiquiatría infanto-juvenil) (0 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      }
+    ],
+    "totalProfesionales": 3,
+    "totalHoras": 10
+  },
+  {
+    "tratamiento": "Psiquiatría Infanto-juvenil Online",
+    "profesionales": [
+      {
+        "nombre": "María José Vergara Cid",
+        "nombreAgenda": "Dra. María José Vergara Cid (Psiquiatría Infanto Juvenil)(3 a 20 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Macarena Ignacia Rodríguez Pérez",
+        "nombreAgenda": "Dra. Macarena Ignacia Rodríguez Pérez (Psiquiatría Infantil)(Menores 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Michelle Christina Sukerman Guardia",
+        "nombreAgenda": "Dra. Michelle Christina Sukerman Guardia (Psiquiatría infanto-juvenil) (0 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Myriam Penélope Silva González",
+        "nombreAgenda": "Dra. Myriam Penélope Silva González (Psiquiatría infantojuvenil) (0 a 18 años)",
+        "sucursales": [
+          "Formed/ Santiago Centro/ Paseo Bulnes 79  SALUD MENTAL"
+        ],
+        "horas": 4
+      }
+    ],
+    "totalProfesionales": 4,
+    "totalHoras": 7
+  },
+  {
+    "tratamiento": "Psiquiatría Infanto-juvenil Online (residente)",
+    "profesionales": [
+      {
+        "nombre": "Daniela Alexandra Silva E",
+        "nombreAgenda": "Dra. Daniela Alexandra Silva E (Psiquiatría - M. general en formación Psiquiatría) (0 a 18 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 1
+      },
+      {
+        "nombre": "Francisca Merino Vial",
+        "nombreAgenda": "Dra. Francisca Merino Vial (Psiquiatría- M. general en formación Psiquiatría) (0 a 20 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 6
+      }
+    ],
+    "totalProfesionales": 2,
+    "totalHoras": 7
+  },
+  {
+    "tratamiento": "Reumatología 0101206",
+    "profesionales": [],
+    "totalProfesionales": 0,
+    "totalHoras": 0
+  },
+  {
+    "tratamiento": "Traumatología 0101310",
+    "profesionales": [
+      {
+        "nombre": "Sebastián Reinaldo Drago Pérez",
+        "nombreAgenda": "Dr. Sebastián Reinaldo Drago Pérez (Traumatología)(Desde 10 años)",
+        "sucursales": [
+          "Formed/ Providencia/ Av. Nueva Providencia 1881"
+        ],
+        "horas": 26
+      }
+    ],
+    "totalProfesionales": 1,
+    "totalHoras": 26
+  }
+]

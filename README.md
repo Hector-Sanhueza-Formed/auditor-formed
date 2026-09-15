@@ -8,6 +8,7 @@ Auditoría automatizada del sitio **formed.cl** con Playwright + TypeScript.
 | ------ | ------------ | ------- |
 | 1. Listado | Que cada profesional del catálogo aparezca al buscarlo | `tests/profesionales.spec.ts` |
 | 2. Reserva online | Que cada profesional permita reservar hora | `tests/reserva-online.spec.ts` |
+| 3. Por especialidad | Que cada tratamiento ofrezca profesionales y horas | `tests/reserva-especialidad.spec.ts` |
 
 ```bash
 npm test                              # todo
@@ -50,6 +51,7 @@ Todos se ejecutan desde la carpeta `auditor-formed`.
 | `npm test` | Los dos módulos completos |
 | `npm run test:listado` | Solo módulo 1: que cada profesional aparezca (~1 min) |
 | `npm run test:reserva` | Solo módulo 2: reserva online (lento, ~20 min) |
+| `npm run test:especialidad` | Solo módulo 3: reserva por especialidad |
 
 ### Un solo profesional
 
@@ -73,6 +75,7 @@ npx playwright test reserva-online -g "[157]"
 | ------- | -------- |
 | `npm run ver:reserva` | Módulo 2 con navegador visible, un test a la vez |
 | `npm run ver:listado` | Módulo 1 con navegador visible |
+| `npm run ver:especialidad` | Módulo 3 con navegador visible |
 
 Combinable con `-g` para un solo profesional:
 
@@ -266,6 +269,76 @@ npm run agendas
 - **Hay que pausar tras elegir la hora.** Pulsar Continuar de inmediato deja el
   wizard sin avanzar, y el síntoma parece un profesional caído cuando en
   realidad su agenda funciona.
+
+## Módulo 3 — Reserva por especialidad
+
+Recorre el otro camino de reserva, el que no parte del profesional:
+
+```
+/reserva → Por Especialidad → RUT → País/Región
+         → tratamiento (sucursal "Cualquiera")
+         → listado de profesionales y horas → elegir una hora
+         → [Reservar]  ←  AQUÍ SE DETIENE
+```
+
+**Nunca llega al paso 4.** Elegir una hora no reserva nada.
+
+### El RUT
+
+El widget exige identificarse antes de mostrar disponibilidad. Ese RUT vive en
+`.env`, que **no se versiona**: es un dato personal y este repositorio es
+público. Para usarlo:
+
+```bash
+cp .env.example .env     # y completa RUT_PRUEBA
+```
+
+Sin `.env` los tests del módulo 3 se saltan con un mensaje explícito, en vez
+de fallar de forma confusa.
+
+### Diagnósticos
+
+| Estado | Significado |
+| ------ | ----------- |
+| `sin-profesionales` | la especialidad no ofrece a nadie (🟡 esperable) |
+| `no-avanza` | hay profesionales, pero el wizard no pasa al listado (🔴). Antes de tratarlo como fallo del sitio, sube `ESPERA_ANTES_DE_CONTINUAR` |
+| `sin-horas` | hay profesionales, pero ninguno con horas |
+| `hora-no-clicable` | la agenda reporta horas y el listado no deja elegirlas |
+| `flujo-roto` | el recorrido se cortó antes de elegir tratamiento |
+
+La distinción entre `sin-profesionales` y `no-avanza` es la importante: el
+wizard se queda en el paso 2 en ambos casos, pero solo el segundo es un fallo.
+
+### Datos y cruce
+
+```bash
+npm run tratamientos   # recorre los 34 y escribe data/tratamientos.json
+npm run cruzar         # cruza con profesionales.json (no navega)
+```
+
+`cruzar` agrega a cada profesional del catálogo el campo `tratamientos`, e
+informa los desajustes: especialidades sin nadie, y nombres que están en la
+agenda pero no publicados en el listado.
+
+**El match de nombres no es comparación de cadenas.** Los dos lados escriben
+distinto: la agenda suele ser más completa (`Camila Olivia Urzúa Abarca` frente
+a `Camila Urzúa Abarca`) y a veces abrevia el apellido materno
+(`María Julia Puca C`). Se comparan palabra por palabra, aceptando que una
+inicial represente a una palabra completa; con prefijos fallaban 24 casos.
+
+### Trampas de este flujo
+
+- **La disponibilidad se pide al elegir el tratamiento**, no al pulsar
+  Continuar. Esperar "la respuesta" como señal de haber avanzado es un falso
+  positivo: llega sin que el wizard se haya movido.
+- **Que Continuar esté habilitado no significa que el widget esté listo.**
+  Se habilita antes de terminar de preparar la disponibilidad, y pulsarlo
+  entonces deja el wizard clavado en el paso 2 sin ningún aviso. Por eso se
+  esperan 10 s adicionales (`ESPERA_ANTES_DE_CONTINUAR`). Con 2 s, las cuatro
+  especialidades de psicología —las más grandes, 34 a 69 profesionales— daban
+  un falso "no avanza" que parecía un fallo del sitio.
+- **Los desplegables se filtran escribiendo**: el menú carga de a 10 opciones
+  y el viewport por defecto corta la lista.
 
 ## Siguientes pasos
 

@@ -9,6 +9,7 @@ Auditoría automatizada del sitio **formed.cl** con Playwright + TypeScript.
 | 1. Listado | Que cada profesional del catálogo aparezca al buscarlo | `tests/profesionales.spec.ts` |
 | 2. Reserva online | Que cada profesional permita reservar hora | `tests/reserva-online.spec.ts` |
 | 3. Por especialidad | Que cada tratamiento ofrezca profesionales y horas | `tests/reserva-especialidad.spec.ts` |
+| 4. Por profesional | Cada sucursal × profesional × atención tenga días con cupo | `tests/reserva-profesional.spec.ts` |
 
 ```bash
 npm test                              # todo
@@ -52,6 +53,7 @@ Todos se ejecutan desde la carpeta `auditor-formed`.
 | `npm run test:listado` | Solo módulo 1: que cada profesional aparezca (~1 min) |
 | `npm run test:reserva` | Solo módulo 2: reserva online (lento, ~20 min) |
 | `npm run test:especialidad` | Solo módulo 3: reserva por especialidad |
+| `npm run test:profesional` | Solo módulo 4: reserva por profesional (muy lento) |
 
 ### Un solo profesional
 
@@ -76,6 +78,7 @@ npx playwright test reserva-online -g "[157]"
 | `npm run ver:reserva` | Módulo 2 con navegador visible, un test a la vez |
 | `npm run ver:listado` | Módulo 1 con navegador visible |
 | `npm run ver:especialidad` | Módulo 3 con navegador visible |
+| `npm run ver:profesional` | Módulo 4 con navegador visible |
 
 Combinable con `-g` para un solo profesional:
 
@@ -339,6 +342,61 @@ inicial represente a una palabra completa; con prefijos fallaban 24 casos.
   un falso "no avanza" que parecía un fallo del sitio.
 - **Los desplegables se filtran escribiendo**: el menú carga de a 10 opciones
   y el viewport por defecto corta la lista.
+
+## Módulo 4 — Reserva por profesional
+
+El tercer camino de reserva, que combina las tres dimensiones:
+
+```
+/reserva → Por Profesional → sucursal → profesional → atención
+         → calendario  ←  AQUÍ SE DETIENE
+```
+
+Comprueba que el calendario ofrezca **al menos un día con cupo**, y ahí termina.
+No elige día ni hora, no pulsa Continuar y nunca llega al paso que pide el RUT,
+así que **este módulo no necesita `.env`**.
+
+### Es un widget distinto al del módulo 3
+
+Aunque los dos salen de `/reserva`, no comparten componentes:
+
+| | Módulo 3 (especialidad) | Módulo 4 (profesional) |
+| --- | --- | --- |
+| URL | `/reserva/disponibilidad` | `/reserva/profesional` |
+| Desplegables | `.v-select` + `.vs__dropdown-option` | `.nq-field__control--select` + `.nqs-option` |
+| Pasos | 4, dos juntos en una pantalla | 5, uno por pantalla |
+| RUT | al principio | al final |
+
+El módulo 4 usa los mismos componentes que el módulo 2 (la reserva desde la
+ficha del profesional), no los del 3.
+
+### El mapa de combinaciones
+
+Los tests se generan a partir de `data/agenda-profesional.json`, que hay que
+producir antes:
+
+```bash
+npm run agenda-profesional
+```
+
+Recorre las 4 sucursales, sus profesionales y las atenciones de cada uno. Tarda
+bastante (~19 s por profesional), así que **guarda avance tras cada sucursal**:
+si se corta, lo ya recorrido queda en el archivo.
+
+Sin ese mapa no se sabe cuántas combinaciones hay, y son ellas las que definen
+el tamaño de la auditoría.
+
+### Diagnósticos
+
+| Estado | Significado |
+| ------ | ----------- |
+| `sin-sucursal` | la sucursal ya no aparece en el desplegable |
+| `sin-profesional` | el profesional ya no aparece en esa sucursal |
+| `sin-atencion` | la atención ya no aparece para ese profesional |
+| `sin-dias` | ningún día con cupo en los próximos 3 meses |
+
+Los tres primeros significan que el mapa quedó viejo: regenéralo y compara el
+diff, que ahí se ve quién entró o salió de cada sucursal.
 
 ## Siguientes pasos
 

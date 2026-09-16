@@ -18,7 +18,10 @@
     "tratamientos": "node scripts/generar-tratamientos.js",
     "test:especialidad": "playwright test reserva-especialidad",
     "cruzar": "node scripts/cruzar-tratamientos.js",
-    "ver:especialidad": "playwright test reserva-especialidad --headed --workers=1"
+    "ver:especialidad": "playwright test reserva-especialidad --headed --workers=1",
+    "agenda-profesional": "node scripts/generar-agenda-profesional.js",
+    "test:profesional": "playwright test reserva-profesional",
+    "ver:profesional": "playwright test reserva-profesional --headed --workers=1"
   },
   "devDependencies": {
     "@playwright/test": "^1.63.0",
